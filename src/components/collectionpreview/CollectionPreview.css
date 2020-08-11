@@ -1,0 +1,12 @@
+.home-cars{
+    display: flex !important;
+    flex-direction: row !important;
+    align-items: center !important;
+    justify-content: space-evenly !important;
+    flex-wrap: wrap;
+    
+}
+
+.card{
+    margin: 20px 0;
+}
